@@ -1,3 +1,6 @@
 [submodule "react-frontend"]
 	path = react-frontend
 	url = https://github.com/Yogeeswaran03/react-frontend.git
+[submodule "spring-backend"]
+	path = spring-backend
+	url = https://github.com/Yogeeswaran03/spring-backend.git
